@@ -1,2 +1,4 @@
  this is a file that i want to improve my first release.
-this is just change in branch slave1.
+this is just change in branch slave1.  
+
+this is master changes. 
